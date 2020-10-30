@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+记录游戏历程，记录游戏人生。
 
-### More Information
+### 关于blog
 
-A place to include any other types of information that you'd like to include about yourself.
+平时记录一些关于计算机、数学、游戏制作的学习心得。~~其实是想写啥写啥。~~
 
-### Contact me
+### 关于我
 
-[email@domain.com](mailto:email@domain.com)
+CUMT在读学生，目标是用游戏的手法来记录现实，反思现实。~~其实是只会打游戏的死肥宅。~~
+欢迎志同道合的小伙伴一起交流学习。
+
+
+QQ & email: 3121508231@qq.com
