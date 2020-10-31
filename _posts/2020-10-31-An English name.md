@@ -1,5 +1,5 @@
 ---
-layput:post
+layput: post
 title: An English name
 ---
 
