@@ -1,10 +1,15 @@
----
-layout: post
-title: It's pretty cool!
----
+# 我的第一个博客
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+测试一些功能。
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+> 测试
+> 再测试
+> 反复测试
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+**这是粗体**
+
+*这是斜体*
+
+***
+
+这是普通的文字。
