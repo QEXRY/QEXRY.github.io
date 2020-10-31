@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Sumail
+name: 知无涯的人类观察日记
 
 # Short bio or description (displayed in the header)
 description: CUMT
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/12
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: 3121508231@qq.com
+  email:
   facebook:
   flickr:
-  github: https://github.com/QEXRY
+  github:
   instagram:
   linkedin:
   pinterest:
