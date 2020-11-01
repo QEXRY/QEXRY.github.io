@@ -12,4 +12,4 @@ title: 这是一个中文名
 3.1415926
 
 
-www.latexlive.com/#JTVDc3VtJTIw
+![](http://latex.codecogs.com/gif.latex?\\\tf_{t,d}=1+log(tf_{t,d}\))
