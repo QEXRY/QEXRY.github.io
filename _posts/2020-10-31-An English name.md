@@ -1,6 +1,6 @@
 ---
 layput: post
-title: An English name
+title: 这是一个中文名
 ---
 
 
