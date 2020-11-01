@@ -11,4 +11,4 @@ title: 这是一个中文名
 ***
 3.1415926
 
-https://latex.codecogs.com/svg.latex?\\sin(5)
+![](https://latex.codecogs.com/svg.latex?\\sin(5))
